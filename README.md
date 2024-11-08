@@ -156,4 +156,4 @@ Error Handling
 
 Author
 
-Developed by Your Joseph James Kayode. Contributions, issues, and feature requests are welcome!
+Developed by Joseph James Kayode. Contributions, issues, and feature requests are welcome!
